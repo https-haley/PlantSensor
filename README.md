@@ -2,7 +2,7 @@
 # Download Drivers # 
 ESP32 - https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
-#Install in Aurdino Library #
+# Install in Aurdino Library #
 - esp32 by Espressif Systems
 - TFT_eSPI by Bodmer
 
